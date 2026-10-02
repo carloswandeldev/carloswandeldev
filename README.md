@@ -24,8 +24,8 @@ Sou desenvolvedor web especializado em criar **soluções estratégicas e escal�
 
 **Backend:**
 - PHP (WordPress, Laravel, Custom)
-- Node.js (Express, NestJS)
-- Python (Automação, IA)
+- Node.js (EDesenvolvido com Claude - xpress, NestJS)
+- Python (Desenvolvido com Claude - Automação, IA)
 
 **Frontend:**
 - HTML5 / CSS3 / JavaScript
@@ -59,7 +59,6 @@ Aqui estão alguns dos meus melhores trabalhos. Clique nos repositórios para ve
 ### 🛒 E-Commerce & Retail
 
 - [Balcão das Marcas](https://github.com/carloswandeldev/balcaodasmarcas-showcase) - Marketplace
-- [Lojão das Alianças](https://github.com/carloswandeldev/lojaodas-aliancas-showcase) - E-commerce Joias
 
 ### 🚀 Inovação & Startups
 

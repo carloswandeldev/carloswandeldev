@@ -54,7 +54,6 @@ Aqui estão alguns dos meus melhores trabalhos. Clique nos repositórios para ve
 
 - [Caprilo.com.br](https://github.com/carloswandeldev/caprilo-showcase) - SaaS Imobiliário
 - [Ribeiro e Cardoso Advogados](https://github.com/carloswandeldev/ribeiroecardoso-showcase) - Website Jurídico
-- [RF Brasil Transportes](https://github.com/carloswandeldev/rfbrasil-showcase) - Portal Logística
 
 ### 🛒 E-Commerce & Retail
 
